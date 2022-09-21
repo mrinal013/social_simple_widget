@@ -46,7 +46,7 @@
     "resolve-url-loader": "^3.1.1",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
-    "vuetify": "^2.2.27",
+    "vuetify": "^2.6.10",
     "vuetify-loader": "^1.4.3"
   }
 }
